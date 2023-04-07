@@ -1,0 +1,14 @@
+# Author: Alex Gezerlis
+# Numerical Methods in Physics with Python (2nd ed., CUP, 2023)
+
+# NOTE TO INSTRUCTORS: The solutions to the following problems are made available to all readers (i.e., are not locked)
+#                      I may provide more solutions at numphyspy.org if there is sufficient demand.
+
+Ch1: 3, 10
+Ch2: 5, 14, 19
+Ch3: 5, 10
+Ch4: 6, 24, 49
+Ch5: 11, 15, 18, 21, 25
+Ch6: 5, 13, 22, 46
+Ch7: 2, 21, 25, 62
+Ch8: 7, 28, 29, 34
