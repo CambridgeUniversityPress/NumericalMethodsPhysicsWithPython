@@ -1,3 +1,6 @@
+# Author: Alex Gezerlis
+# Numerical Methods in Physics with Python (2nd ed., CUP, 2023)
+
 from triang import testcreate
 from invpowershift import invpowershift
 from qrmet import qrmet

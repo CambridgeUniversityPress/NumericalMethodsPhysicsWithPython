@@ -1,3 +1,6 @@
+# Author: Alex Gezerlis
+# Numerical Methods in Physics with Python (2nd ed., CUP, 2023)
+
 from gauelim_pivot import gauelim_pivot
 from newnormal import generatedata, phi
 import numpy as np

@@ -1,3 +1,6 @@
+# Author: Alex Gezerlis
+# Numerical Methods in Physics with Python (2nd ed., CUP, 2023)
+
 from jacobi import termcrit
 from newnormal import generatedata
 from numpy import exp
